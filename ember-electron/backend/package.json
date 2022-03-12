@@ -20,7 +20,7 @@
     "express": "4.17.0",
     "forever": "^1.0.0",
     "untildify": "^4.0.0",
-    "yargs": "13.2.4"
+    "yargs": "13.3.2"
   },
   "devDependencies": {
     "chai": "4.2.0",
